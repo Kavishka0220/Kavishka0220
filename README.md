@@ -43,6 +43,65 @@ I am an Electrical Engineering undergraduate with a deep interest in bridging th
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
 </p>
 
+
+
+#### ⚙️ Engineering & Embedded
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,matlab" />
+</p>
+
+#### 💻 Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript" />
+</p>
+
+#### 🌐 Web & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48"/>
+</p>
+
+#### 🗄 Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
+</p>
+
+---
+
+### 🌟 Featured Project
+<p align="center">
+<b>Machine Learning-Based Virtual Power Plant Aggregator</b><br>
+Designing an intelligent system to coordinate rooftop solar + battery systems using forecasting and optimization.
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavishka0220&show_icons=true&theme=radical" height="160" alt="kavishka0220"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishka0220&theme=radical" height="160"/>
+</p>
+
+---
+
+### 🏆 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavishka0220&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/kavishkalakshan0220">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+
 ---
 
 ### 📈 GitHub Stats
